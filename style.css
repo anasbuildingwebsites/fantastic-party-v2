@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+header {
+    background-color: lightblue;
+    padding: 20px;
+    color: #3f6969;
+}
+
+header a {
+    text-decoration: none;
+    color: #3f6969;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+main h1 {
+    font-size: 25px;
+    color: #3f6969;
+    text-align: center;
+}
+
+footer {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: lightblue;
+    color:#3f6969;
+    padding: 10px;
+    margin:15px;
+    border-radius: 10px;
+}
+
+main {
+    padding: 25px;
+}
+
+.product {
+    background-color: lightblue;
+    padding: 25px;
+    border: 10px solid cadetblue;
+    border-radius: 10px;
+}
+
+.section {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: cadetblue;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
